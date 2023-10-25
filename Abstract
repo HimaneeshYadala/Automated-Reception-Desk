@@ -1,4 +1,12 @@
-# Background:
-An automated system in hospitals for managing appointments can improve the efficiency and accuracy of the scheduling process. It can also reduce the workload of receptionists, allowing them to focus on other tasks, such as managing patient information and assisting patients. One of the key benefits of automating the appointment scheduling process is the ability to match patients with the most appropriate doctor based on their medical needs. This ensures that patients receive the appropriate care from specialized practitioners, ultimately leading to better treatment outcomes. Another benefit of an automated system is the ability to notify patients of their appointment details in a timely manner. This contributes to the overall enhancement of the patient experience, as it fosters a sense of transparency and reliability in the healthcare system. This model can be made using just logic gates, Flip Flops and Counters. This simplistic design also makes the model economical.
-# Motivation: 
-We wanted to combine two different domains Healthcare and Technology and decided to make a project, which can make the experience of patients and hospital staff better in many ways. With our project we aim to address global health challenges by providing innovative solutions to streamline the process.
+Background:
+An automated system in hospitals for managing appointments can improve the efficiency and accuracy of the scheduling process.
+It can also reduce the workload of receptionists, allowing them to focus on other tasks, such as managing patient information and assisting patients.
+One of the key benefits of automating the appointment scheduling process is the ability to match patients with the most appropriate doctor based on their medical needs.
+This ensures that patients receive the appropriate care from specialized practitioners, ultimately leading to better treatment outcomes.
+Another benefit of an automated system is the ability to notify patients of their appointment details in a timely manner.
+This contributes to the overall enhancement of the patient experience, as it fosters a sense of transparency and reliability in the healthcare system. 
+This model can be made using just logic gates, Flip Flops and Counters. This simplistic design also makes the model economical.
+
+Motivation: 
+We wanted to combine two different domains Healthcare and Technology and decided to make a project, which can make the experience of patients and hospital staff better in many ways. 
+With our project we aim to address global health challenges by providing innovative solutions to streamline the process.
