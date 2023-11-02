@@ -37,8 +37,9 @@ With our project we aim to address global health challenges by providing innovat
 <summary>Details</summary>
 <br>
   # Main Code:
-`module reception_desk(query,A,B,clk,start,message);
-	input [1:0] query; 
+	```
+module reception_desk(query,A,B,clk,start,message);
+	input [1:0] query;
 	input A,B,clk,start;
 	output reg [1:0] message;
 	reg a = 1'b0;
@@ -101,10 +102,12 @@ With our project we aim to address global health challenges by providing innovat
         if(c_b == 15)
             b = 0;
 	end
-endmodule`
+endmodule
+	```
 
   # Testbench File:
-`module reception_desk(query,A,B,clk,start,message);
+  ```
+module reception_desk(query,A,B,clk,start,message);
 	input [1:0] query; 
 	input A,B,clk,start;
 	output reg [1:0] message;
@@ -168,5 +171,6 @@ endmodule`
         if(c_b == 15)
             b = 0;
 	end
-endmodule`
+endmodule
+```
 </details>
