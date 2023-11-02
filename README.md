@@ -2,11 +2,18 @@
 Our project aims to design an automated reception desk for hospitals. The system has an easy-to-use interface allowing patients to check in and make appointments with doctors based on their needs. It can be integrated with the hospital's software and provide real-time updates on doctor availability for a convenient and satsifying experience.
 
 # Team Details:
+<details>
+<summary>Details</summary>
+<br>
 1. 221CS251, Srivatsan Suresh, srivatsansuresh.221cs251@nitk.edu.in, 9449820314
 2. 221CS258, Vaibhav Anurag, anuragvaibhav.221cs258@nitk.edu.in,  79799 15189
 3. 221CS264, Himaneesh Yadala, himaneeshyadala.221cs264@nitk.edu.in, 97399 55000
+</details>
 
 # Abstract:
+<details>
+<summary>Details</summary>
+<br>
 Background:
 An automated system in hospitals for managing appointments can improve the efficiency and accuracy of the scheduling process.
 It can also reduce the workload of receptionists, allowing them to focus on other tasks, such as managing patient information and assisting patients.
@@ -19,14 +26,18 @@ This model can be made using just logic gates, Flip Flops and Counters. This sim
 Motivation: 
 We wanted to combine two different domains Healthcare and Technology and decided to make a project, which can make the experience of patients and hospital staff better in many ways. 
 With our project we aim to address global health challenges by providing innovative solutions to streamline the process.
+</details>
 
 # Working
 
 # Logisim Circuit Diagram: 
 
 # Verilog Code:
+<details>
+<summary>Details</summary>
+<br>
   # Main Code:
-module reception_desk(query,A,B,clk,start,message);
+`module reception_desk(query,A,B,clk,start,message);
 	input [1:0] query; 
 	input A,B,clk,start;
 	output reg [1:0] message;
@@ -90,10 +101,10 @@ module reception_desk(query,A,B,clk,start,message);
         if(c_b == 15)
             b = 0;
 	end
-endmodule
+endmodule`
 
   # Testbench File:
-module reception_desk(query,A,B,clk,start,message);
+`module reception_desk(query,A,B,clk,start,message);
 	input [1:0] query; 
 	input A,B,clk,start;
 	output reg [1:0] message;
@@ -157,4 +168,5 @@ module reception_desk(query,A,B,clk,start,message);
         if(c_b == 15)
             b = 0;
 	end
-endmodule
+endmodule`
+</details>
