@@ -16,6 +16,7 @@ Our project aims to design an automated reception desk for hospitals. The system
 <details>
 <summary>Details</summary>
 <br>
+	
 Background:
 An automated system in hospitals for managing appointments can improve the efficiency and accuracy of the scheduling process.
 It can also reduce the workload of receptionists, allowing them to focus on other tasks, such as managing patient information and assisting patients.
@@ -28,11 +29,39 @@ This model can be made using just logic gates, Flip Flops and Counters. This sim
 Motivation: 
 We wanted to combine two different domains Healthcare and Technology and decided to make a project, which can make the experience of patients and hospital staff better in many ways. 
 With our project we aim to address global health challenges by providing innovative solutions to streamline the process.
+
 </details>
 
 # Working
+<details>
+<summary>Details</summary>
+<br>
+
+For Query 0, if the input is '0,' the system promptly checks if Doctor A is available. If Doctor A is free, the system assigns the patient to Doctor A and provides a two-bit response to indicate Doctor A's readiness for consultation. However, if Doctor A is currently occupied, the system politely informs the patient about a short wait.
+
+For Query 3, when the input is '3,' the system checks the availability of Doctor B. If Doctor B is ready, the system assigns the patient to Doctor B and provides a two-bit output to confirm Doctor B's readiness for consultation. If Doctor B is not available, the patient is informed about a brief waiting period.
+
+Queries 1 and 2 are slightly different; when the input is '1' or '2,' the system assesses the availability of both Doctor A and Doctor B. If both doctors are free, the system efficiently assigns the patient to the first available doctor and provides a two-bit output specifying which doctor is ready for consultation. If both doctors are currently occupied, the system courteously informs the patient about a short waiting time.
+
+<img width="419" alt="image" src="https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/3c3b4159-48cd-41a6-bf39-7290406f986a">
+<img width="421" alt="image" src="https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/a9c7c2f9-9504-4a06-be7c-d0024c0ce989">
+
+
+</details>
 
 # Logisim Circuit Diagram: 
+<details>
+<summary>Details</summary>
+<br>
+
+![WhatsApp Image 2023-11-02 at 16 59 31_f8f7925e](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/5731c971-1288-4bc9-a9c8-71ef8f552199)
+![WhatsApp Image 2023-11-02 at 16 59 31_21022c4d](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/9fba21ca-5fa5-4b4e-889d-b66720a19689)
+![WhatsApp Image 2023-11-02 at 16 59 32_ce18c7d7](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/00338a86-ec28-4378-b28a-8db8d45eb0e0)
+![WhatsApp Image 2023-11-02 at 16 59 32_9b95351a](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/01c4a4ca-557d-4ff3-bae6-646affa7a47a)
+![WhatsApp Image 2023-11-02 at 16 59 33_57a38409](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/cf4d718d-f079-4d9f-8309-14ce7102e4b9)
+
+
+</details>
 
 # Verilog Code:
 <details>
