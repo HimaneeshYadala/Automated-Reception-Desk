@@ -36,9 +36,10 @@ With our project we aim to address global health challenges by providing innovat
 <details>
 <summary>Details</summary>
 <br>
-  # Main Code:
-	```
-module reception_desk(query,A,B,clk,start,message);
+Main Code:
+	
+```
+module reception_desk(query,A,B,clk,start,message);	
 	input [1:0] query;
 	input A,B,clk,start;
 	output reg [1:0] message;
@@ -102,11 +103,11 @@ module reception_desk(query,A,B,clk,start,message);
         if(c_b == 15)
             b = 0;
 	end
-endmodule
-	```
+	endmodule
+```
+Testbench Code:
 
-  # Testbench File:
-  ```
+ ```
 module reception_desk(query,A,B,clk,start,message);
 	input [1:0] query; 
 	input A,B,clk,start;
@@ -172,5 +173,6 @@ module reception_desk(query,A,B,clk,start,message);
             b = 0;
 	end
 endmodule
+
 ```
 </details>
