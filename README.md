@@ -57,10 +57,8 @@ Queries 1 and 2 are slightly different; when the input is '1' or '2,' the system
 <details>
 <summary>Details</summary>
 <br>
-![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/2eeaa064-5661-4392-91a5-8957fb5f5023)
-![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/c3f8c1dd-ae64-4250-b21b-e5f53001c900)
-![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/db68a5ec-a521-4a8c-9801-60ad1336b764)
-![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/354a5322-794a-4445-9342-9cbd4e28ea33)
+![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/1212348a-faea-4c1a-90ab-c8e85559ddd9)
+
 
 </details>
 
