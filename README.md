@@ -58,10 +58,13 @@ Queries 1 and 2 are slightly different; when the input is '1' or '2,' the system
 <summary>Details</summary>
 <br>
 
+Main Logisim Circuit:
+![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/232ca715-5439-4aaf-b3ff-a66cf31d99cf)
+
+Logisim Component Circuits: 
 ![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/c7986a58-a65e-46d4-b887-c49da6869861)
 ![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/7162c5e7-acd4-48e3-b991-4401d2b17ad8)
 ![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/e954e7b9-31f9-49b1-a37e-4774ab341259)
-![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/232ca715-5439-4aaf-b3ff-a66cf31d99cf)
 ![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/140c98df-9314-4c60-983f-9321eef17ecb)
 	
 
