@@ -1,7 +1,7 @@
 # Automated-Reception-Desk
 Our project aims to design an automated reception desk for hospitals. The system has an easy-to-use interface allowing patients to check in and make appointments with doctors based on their needs. It can be integrated with the hospital's software and provide real-time updates on doctor availability for a convenient and satsifying experience.
 
-# Team Details:
+## Team Details:
 <details>
 <summary>Details</summary>
 <br>
@@ -14,7 +14,7 @@ Section: S2<br>
 
 </details>
 
-# Abstract:
+## Abstract:
 <details>
 <summary>Details</summary>
 <br>
@@ -34,7 +34,7 @@ With our project we aim to address global health challenges by providing innovat
 
 </details>
 
-# Working
+## Working
 <details>
 <summary>Details</summary>
 <br>
@@ -65,7 +65,7 @@ Queries 1 and 2 are slightly different; when the input is '1' or '2,' the system
 
 </details>
 
-# Verilog Code:
+## Verilog Code:
 <details>
 <summary>Details</summary>
 <br>
