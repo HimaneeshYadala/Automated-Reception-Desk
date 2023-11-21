@@ -45,8 +45,9 @@ For Query 3, when the input is '3,' the system checks the availability of Doctor
 
 Queries 1 and 2 are slightly different; when the input is '1' or '2,' the system assesses the availability of both Doctor A and Doctor B. If both doctors are free, the system efficiently assigns the patient to the first available doctor and provides a two-bit output specifying which doctor is ready for consultation. If both doctors are currently occupied, the system courteously informs the patient about a short waiting time.
 
-<img width="419" alt="image" src="https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/3c3b4159-48cd-41a6-bf39-7290406f986a">
-<img width="421" alt="image" src="https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/a9c7c2f9-9504-4a06-be7c-d0024c0ce989">
+![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/759056ef-87d4-48ab-98ab-922c538c184d)
+![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/a49ac621-ee7a-446e-86a8-4c929dbc1b0a)
+
 
 
 </details>
@@ -56,13 +57,10 @@ Queries 1 and 2 are slightly different; when the input is '1' or '2,' the system
 <details>
 <summary>Details</summary>
 <br>
-
-![WhatsApp Image 2023-11-02 at 16 59 31_f8f7925e](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/5731c971-1288-4bc9-a9c8-71ef8f552199)
-![WhatsApp Image 2023-11-02 at 16 59 31_21022c4d](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/9fba21ca-5fa5-4b4e-889d-b66720a19689)
-![WhatsApp Image 2023-11-02 at 16 59 32_ce18c7d7](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/00338a86-ec28-4378-b28a-8db8d45eb0e0)
-![WhatsApp Image 2023-11-02 at 16 59 32_9b95351a](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/01c4a4ca-557d-4ff3-bae6-646affa7a47a)
-![WhatsApp Image 2023-11-02 at 16 59 33_57a38409](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/cf4d718d-f079-4d9f-8309-14ce7102e4b9)
-
+![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/2eeaa064-5661-4392-91a5-8957fb5f5023)
+![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/c3f8c1dd-ae64-4250-b21b-e5f53001c900)
+![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/db68a5ec-a521-4a8c-9801-60ad1336b764)
+![image](https://github.com/HimaneeshYadala/Automated-Reception-Desk/assets/113039145/354a5322-794a-4445-9342-9cbd4e28ea33)
 
 </details>
 
