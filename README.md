@@ -51,7 +51,7 @@ Queries 1 and 2 are slightly different; when the input is '1' or '2,' the system
 
 </details>
 
-# Logisim Circuit Diagram: 
+## Logisim Circuit Diagram: 
 <details>
 <summary>Details</summary>
 <br>
